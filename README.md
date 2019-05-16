@@ -2,6 +2,18 @@
 
 This repo builds on the work developed in [here](https://github.com/dazcona/edm-modeling) where we work on models to distinguish higher-performing students to lower performers. Students that are struggling with the material may or may not have the same issues. In order to personalize the way our students learn programming skills and support adaptive feedback in the computer programming modules, we started sending customized weekly notifications via email. This work presents a study on students' engagement and dive into the personalized weekly performance notifications. Overall, the predictive and personalised feedback helped to reduce the gap between the lower and higher-performing students. Furthermore, students praised the prediction and the personalised feedback, conveying strong recommendations for future students to use the system. We also found that students who followed their personalised guidance and recommendations performed better in examinations.
 
+Please consider citing the following if you use any of the work:
+```
+@inproceedings{azcona2018exploratory,
+  title={An Exploratory Study on Student Engagement with Adaptive Notifications in Programming Courses},
+  author={Azcona, David and Hsiao, I-Han and Smeaton, Alan},
+  booktitle={European Conference on Technology Enhanced Learning},
+  pages={644--647},
+  year={2018},
+  organization={Springer}
+}
+```
+
 ## Technologies
 
 * Python
