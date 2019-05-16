@@ -48,22 +48,15 @@ $ source env/bin/activate
 
 A difference index measures the difference between the second examination's grade and their first one for a particular student.
 
-$$ di(e_{1}, e_{2}) = e_{2} - e_{1} $$
+![](figures/di.png)
 
 Then, a gain index is developed to measure the student's improvement between two examinations:
 
-$$ gi(e_{1}, e_{2}) = \frac{(e_{2} - e_{1})}{e_{1}} $$
+![](figures/gi.png)
 
 And it is normalized to output values between -1 and 1 on
 
-$$
-normgi(e_{1}, e_{2}) = \begin{cases} 
-    0 & e_{1} = 0, e_{2} = 0 \\
-    1 & e_{1} = 0, e_{2} \neq 0 \\
-    1 & gi(e_{1}, e_{2}) > 1 \\
-    gi(e_{1}, e_{2}) & otherwise
-\end{cases}
-$$
+![](figures/normgi.png)
 
 ## Figures
 
