@@ -33,6 +33,7 @@ Please consider citing the following if you use any of the work:
    * [Baseline](src/Engagement.%20Baseline.ipynb): 2015/2016 academic year
    * [Engagement with the suggested programming solutions](src/Engagement.%20Fixing%20Programs.ipynb): Do students in 2016/2017 academic year fix their programs and, if they do, do they perform better?
    * [Engagement with the suggested material](src/Engagement.%20Clicking%20on%20material.ipynb): Do students in 2017/2018 academic year click on the recommended material within their notifications and, if they do, do they perform better? 
+   * [Engagement with a ChatBot](src/Engagement.%20Talking%20to%20the%20Virtual%20Assistant.ipynb): Do students in 2018/2019 academic year talk to the new way of feedback (a WhatsApp ChatBot) and, if they do, do they perform better? 
 
 You can always view a notebook using https://nbviewer.jupyter.org/
 
